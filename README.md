@@ -3,6 +3,8 @@ Effect measure modification-extended regression-based closed-formula causal medi
 
 Regression-based causal mediation analysis with interaction and effect modification terms Use regmedint With (In) R Software
 
+https://www.youtube.com/watch?v=3yQBYPB7x9w
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
